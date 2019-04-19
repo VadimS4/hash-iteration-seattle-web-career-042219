@@ -13,5 +13,6 @@ end
 
 def age_approprate_birthday(birthday_kids)
   birthday_kids.each do |kids_name, age|
-    while age 
+    while age < 12
+      
 
